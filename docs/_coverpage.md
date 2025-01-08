@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![](_images/logo.png)
+![](images/logo.png)
 
 # **有爱文档（UAI-Editor）使用指南**
 
